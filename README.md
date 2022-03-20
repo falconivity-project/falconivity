@@ -30,19 +30,12 @@ The `master` branch is regularly built (see `doc/build-*.md` for instructions) a
 completely stable. [Tags](https://github.com/falconivity-project/falconivity/tags) are created
 regularly from release branches to indicate new official, stable release versions of Falconivity Core.
 
-The https://github.com/falconivity-project/gui repository is used exclusively for the
-development of the GUI. Its master branch is identical in all monotree
-repositories. Release branches and tags do not exist, so please do not fork
-that repository unless it is for development reasons.
-
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
 and useful hints for developers can be found in [doc/developer-notes.md](doc/developer-notes.md).
 
 The developer [mailing list](https://groups.google.com/forum/#!forum/falconivity-dev)
 should be used to discuss complicated or controversial changes before working
 on a patch set.
-
-Developer IRC can be found on Freenode at #falconivity-dev.
 
 Testing
 -------
